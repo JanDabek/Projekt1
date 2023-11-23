@@ -1,0 +1,21 @@
+SOLID
+
+1. Nie spełnia zasady Single Responsibility ponieważ posiada klasy które spełnia dużo funkcjonalności
+2. Spełnia zasadę Open/Closed ponieważ dodawanie nowych funkcji nie niszczy starego kodu.
+3. Nie spełnia zasady Liskov Substitution ponieważ nie posiada klas pochodnych.
+4. Nie spełnia zasady bo nie ma dziedziczenia
+5. Nie spełnia zasady bo nie ma dziedziczenia
+
+
+
+GRASP
+
+1. Spełnia bo klasa ma odpowiedzialność
+2. Spełnia ponieważ klasa B intensywnie używa z klasy A
+3. Spełnia bo jest obiekt kontrolujący
+4. Spełnia bo są przydzielone odpowiedzialności
+5. Nie spełnia bo klasy nie robią ściśle jednego zadania.
+6. Nie spełnia bo nie ma polimorfizmu
+7. Nie wiadomo
+8. Nie spełnia zasady
+9. Nie wiadomo
